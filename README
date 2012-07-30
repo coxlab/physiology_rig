@@ -1,0 +1,11 @@
+This repository contains part files (mechanical, electrical, firmware, etc...) for everything related to the physiology rig (current and previous designs).
+
+The rough organization includes:
+
+    cnc: cnc parts, restricted to the gantry, stage, arms and controllers
+    eagle_library: contains electrical cad parts for various boards
+    implants: implant specific parts (kinematic mount, ratcam, chamber/windows)
+    recording: recording system related hardware and boards
+    sensors: mostly custom sensors (lick, light, movement, etc...)
+    stereo_cameras: mounting hardware and ref objects for the stereo cameras
+    structured_light: mounting hardware and ref objects for the SL system
