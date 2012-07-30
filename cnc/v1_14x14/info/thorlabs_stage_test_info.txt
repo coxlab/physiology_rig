@@ -1,0 +1,30 @@
+1 : utter crap, do not use
+2 : still crap (but not as dangerous)
+3 : still crap but better than 2, movement does not seem to stop on following error
+4 : things are looking a little better, I think several things are wired backwards
+5 : flipped the dac output, everything seems to be working fine now :)
+6 : functional
+7 : testing higher speeds (following error at more negative than current position)
+8 : all working except pid tuning, full range of motion possible and homing useing positive limit switch
+
+kp: 618
+ki: 1317
+kd: 51
+vf: 20
+
+vf: 500?, va:?
+
+with the newport stage, acceleration is twice the velocity, jerk is < (~0.5 accel)
+kp: 600
+ki: 2000.00
+kd: 1500.00
+vf: 75.00
+af: 0.00
+ks: 50000.0
+fe: 1.00
+
+9 : used pid settings and some trajectory settings from newport stage, no more following errors
+be sure to run the steps with Indexed and not Free Run (free run = following error)
+10 : using old (thor tuned pid settings) with eased off trajectory settings and indexed move
+
+10 is good to go (don't go faster than 0.1 or at most 0.2mm/s)

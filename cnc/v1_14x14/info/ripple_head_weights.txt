@@ -1,0 +1,19 @@
+actuator:
+  0.45 + 0.15 kg (actuator + cable)
+  1.323 lbs (total)
+  0.99 lbs (just actuator)
+
+stage:
+  1.83 lbs
+
+plate (pre weight reducing holes):
+   32593.41 cubic mm = 1.99 cubic in
+   .098 lbs/cubic inch * 1.99 cubic in = 0.195 lbs
+   
+
+arm (pre weight reducing holes):
+  10286.67 cubic mm = 0.628 cubic in
+  .098 lbs/cubic inch * 0.628 = 0.0615 lbs
+
+total:
+  1.323 + 1.83 + 0.195 + 0.0615 = 3.41 lbs

@@ -1,0 +1,2 @@
+light sensors are on the wrong side of the board, just flip them over during construction making sure to preserve pin-to-signal mapping
+bnc connectors are probably NOT equally spaced

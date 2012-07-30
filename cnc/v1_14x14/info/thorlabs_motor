@@ -1,0 +1,10 @@
+maxon motor
+380268
+1018247
+
+P(687) = oscillation
+assuming oscillation frequency of 1 Hz (looked about right)
+we get:
+
+kp, ki, kd
+(412.19999999999999, 1374, 51.524999999999999)

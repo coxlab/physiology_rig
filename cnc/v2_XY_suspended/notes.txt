@@ -1,0 +1,14 @@
+Weights:
+
+1) thor labs = 0.75 lbs
+2) newport = 0.7 lbs
+3) l plate = 4 lbs
+4) b plate = 34 grams
+5) ripple arm = 58 grams
+6) w plate = 32 grams
+7) z plate = 166 grams
+8) nema 23 ~ 2 lbs
+9) z stage = 11.8 lbs
+
+11.8 + 2 + 4 + 0.7 + 0.75 = 19.89 lbs
+34 + 58 + 32 + 166 = 290 grams
